@@ -48,6 +48,7 @@ export default {
   }
 
   .search-icon {
+    cursor: pointer;
     img {
       width: 1rem;
     }
