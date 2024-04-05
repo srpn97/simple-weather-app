@@ -29,8 +29,8 @@ cd simple-weather-app
 Follow the instructions in the frontend README to set up and launch the frontend application.
 
 
-![Simple Weather App Screenshot](./gallery/screenshot1.png "Simple Weather App Interface")
-![Simple Weather App Screenshot](./gallery/screenshot2.png "Simple Weather App Interface")
-![Simple Weather App Screenshot](./gallery/screenshot3.png "Simple Weather App Interface")
-![Simple Weather App Screenshot](./gallery/screenshot4.png "Simple Weather App Interface")
-![Simple Weather App Screenshot](./gallery/screenshot5.png "Simple Weather App Interface")
+![Simple Weather App Screenshot](./Gallery/Screenshot1.png "Simple Weather App Interface")
+![Simple Weather App Screenshot](./Gallery/Screenshot2.png "Simple Weather App Interface")
+![Simple Weather App Screenshot](./Gallery/Screenshot3.png "Simple Weather App Interface")
+![Simple Weather App Screenshot](./Gallery/Screenshot4.png "Simple Weather App Interface")
+![Simple Weather App Screenshot](./Gallery/Screenshot5.png "Simple Weather App Interface")
