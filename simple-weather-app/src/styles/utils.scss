@@ -1,0 +1,33 @@
+@import url('./mixins.scss');
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  html {
+    background: url('@/assets/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  body {
+    font-family: "Reddit Mono";
+    font-size: 16px;
+    font-weight: 400;
+    @include sm-viewport {
+      font-size: 1rem;
+    }
+  
+    @include md-viewport {
+      font-size: 1.125rem;
+    }
+  
+    @include lg-viewport {
+      font-size: 1.225rem; 
+    }
+  }
+  
+  .section {
+    padding: 1rem 3rem;
+  }
