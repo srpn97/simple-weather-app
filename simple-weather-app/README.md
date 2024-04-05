@@ -4,8 +4,6 @@ This repository contains the frontend part of the Simple Weather App, a web appl
 Prerequisites
 Before you begin, ensure you have Node.js installed on your system. This project uses npm (Node Package Manager) to manage dependencies.
 
-Clone the project. And Open a terminal at root and move into simple-weather-app
-
 ```
 cd simple-weather-app
 ```
