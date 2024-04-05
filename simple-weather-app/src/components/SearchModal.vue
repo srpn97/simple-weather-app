@@ -146,6 +146,7 @@ export default {
             cursor: pointer;
             padding: 1rem 0.5rem;
             border-bottom: 1px solid #ccc;
+            transition: 0.3s all ease-in;
 
             &:hover {
                 background: #ccc;

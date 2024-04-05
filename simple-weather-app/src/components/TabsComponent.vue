@@ -80,6 +80,7 @@ export default {
     cursor: pointer;
     user-select: none;
     text-align: left;
+    transition: 0.3s all ease-in;
 }
 
 .tab.active {
